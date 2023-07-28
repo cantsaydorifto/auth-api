@@ -1,6 +1,6 @@
 # Auth API - README
 
-Welcome to the Authentication API project! This API provides user authentication functionalities using Node.js, Express.js, JWT (JSON Web Tokens) for access and refresh tokens, and a SQL database managed with Prisma. It allows users to sign up, log in, log out, and refresh their access tokens.
+This API provides user authentication functionalities using Node.js, Express.js, JWT (JSON Web Tokens) for access and refresh tokens, and a SQL database managed with Prisma. It allows users to sign up, log in, log out, and refresh their access tokens.
 
 ## Getting Started
 
