@@ -20,6 +20,6 @@ app.use(verifyJwt);
 app.use("/api/logout", logoutRoutes);
 app.use("/api/post", postRoutes);
 
-app.listen(3000, () => {
+app.listen(process.env.PORT, () => {
   console.log("Listening on port " + process.env.PORT);
 });
